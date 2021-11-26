@@ -3,7 +3,7 @@ title: this is a title test
 subtitle: it's good toay
 category:
   - music
-author: wigggle
+author: wiggle
 date: 2021-11-26T04:59:16.574Z
 featureImage: /uploads/about-hero.jpg
 ---
